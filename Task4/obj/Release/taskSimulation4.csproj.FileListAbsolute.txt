@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\taskSimulation4\bin\Release\taskSimulation4.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\taskSimulation4\bin\Release\taskSimulation4.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\taskSimulation4\bin\Release\taskSimulation4.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\taskSimulation4\obj\Release\taskSimulation4.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\taskSimulation4\obj\Release\taskSimulation4.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\taskSimulation4\obj\Release\taskSimulation4.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\taskSimulation4\obj\Release\taskSimulation4.showOutput.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\taskSimulation4\obj\Release\taskSimulation4.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\taskSimulation4\obj\Release\taskSimulation4.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\taskSimulation4\obj\Release\taskSimulation4.pdb
